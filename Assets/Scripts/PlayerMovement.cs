@@ -3,6 +3,10 @@ using System.Collections;
 
 public class PlayerMovement : MonoBehaviour {
 
+    void Update() {
+        //  Make changes to the PlayerMovement script
+    }
+
     /*
      * TO DO:
      * Movement
